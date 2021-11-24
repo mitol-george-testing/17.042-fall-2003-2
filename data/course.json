@@ -1,0 +1,42 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Political Philosophy"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ],
+    [
+      "Social Science",
+      "Sociology",
+      "Social Justice"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "67da2ac7-bc19-9e46-b164-b554a1db7f33"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Citizenship and Pluralism",
+  "course_description": "This course will serve as both an introduction to contemporary political philosophy and a way to explore issues of pluralism and multiculturalism. Racial and ethnic groups, national minorities, aboriginals, women, sexual minorities, and other groups have organized to highlight injustice and demand recognition and accommodation on the basis of their differences. In practice, democratic states have granted a variety of group-differentiated rights, such as exemptions from generally applicable laws, special representation rights, language rights, or limited self-government rights, to different types of groups. This course will examine how different theories of citizenship address the challenges raised by different forms of pluralism. We will focus in particular on the following questions:\n\n*   Does justice require granting group-differentiated rights?\n*   Do group-differentiated rights conflict with liberal and democratic commitments to equality and justice for all citizens?\n*   What, if anything, can hold a multi-religious, multicultural society together? Why should the citizens of such a society want to hold together?\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.042",
+  "learning_resource_types": [
+    "Written Assignments",
+    "Activity Assignments"
+  ],
+  "title": "Course Metadata"
+}
